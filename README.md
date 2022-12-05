@@ -1,10 +1,8 @@
-# Hej, om mig!
+# Hi, about me!
 
 - 👋 Hi, I’m @malinlena
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in dogs
+- 🌱 I’m currently learning Front End Development
 
 <!---
 malinlena/malinlena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
